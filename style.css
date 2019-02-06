@@ -1,0 +1,34 @@
+h1 {
+  color: black;
+}
+
+.display-4 {
+  font-size: 4rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.call-to-action-card {
+  font-size: 1.5rem;
+  padding: 2rem;
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+}
+
+polygon {
+  fill: gold;
+}
+
+.stars {
+  margin-top: 0.5rem;
+}
+
+.logo {
+  width: 4rem;
+  height: 4rem;
+}
+
+.yell-logo {
+  margin-bottom: 0.4rem;
+}
