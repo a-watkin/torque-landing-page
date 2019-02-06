@@ -43,6 +43,11 @@ polygon {
   height: 4rem;
 }
 
+.header-logo {
+  width: 2rem;
+  height: 2rem;
+}
+
 .yell-logo {
   margin-bottom: 0.4rem;
 }
