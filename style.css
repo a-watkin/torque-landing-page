@@ -78,12 +78,37 @@ polygon {
   text-decoration: none;
 }
 
+/* .active {
+  margin: auto;
+  text-align: center;
+} */
+
+
 #first-section {
   /* background-image: url("automobile-fast-number-248747.jpg"); */
   background: url("audi-black-car-8639.jpg") no-repeat center center fixed;
 
   background-size: contain;
   background-size: cover;
+}
+
+
+
+
+#third-section {
+  /* background-image: url("automobile-fast-number-248747.jpg"); */
+  /* background: url("black-and-white-car-engine-chrome-190574.jpg") no-repeat */
+    center center fixed;
+
+  background-size: contain;
+  background-size: cover;
+  padding-bottom: 1em;
+  padding-top: 0.5em;
+}
+
+#fifth-section {
+  padding-bottom: 1em;
+  padding-top: 0.5em;
 }
 
 #row-spacing {
@@ -108,3 +133,13 @@ polygon {
   color: black;
   /* margin-bottom: 0.6rem; */
 }
+
+footer {
+  background: #000000;
+  color: white;
+}
+
+/* #fifth-section {
+  color: #ffffff;
+  background: black;
+} */
